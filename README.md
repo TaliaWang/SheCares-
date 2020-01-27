@@ -1,4 +1,4 @@
-Project: <shecares.space>
+Project: https://shecares.space
 
 This project was developed at DeltaHacks VI with JavaScript, HTML, CSS, Bootstrap, Firebase, and Google Maps.
 
